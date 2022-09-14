@@ -1,0 +1,2 @@
+Problem: Comparing Strings
+Link: https://codeforces.com/contest/186/problem/A

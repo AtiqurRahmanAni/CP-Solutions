@@ -1,0 +1,2 @@
+Problem: Distinct Digits
+Link: https://codeforces.com/contest/1228/problem/A

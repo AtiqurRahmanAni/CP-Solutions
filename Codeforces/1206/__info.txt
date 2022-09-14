@@ -1,0 +1,2 @@
+Problem: Make Product Equal One
+Link: https://codeforces.com/contest/1206/problem/B

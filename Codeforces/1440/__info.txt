@@ -1,0 +1,2 @@
+Problem: Sum of Medians
+Link: https://codeforces.com/contest/1440/problem/B

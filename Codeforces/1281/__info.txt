@@ -1,0 +1,2 @@
+Problem: Azamon Web Services
+Link: https://codeforces.com/contest/1281/problem/B

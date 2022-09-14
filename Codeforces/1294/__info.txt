@@ -1,0 +1,2 @@
+Problem: Product of Three Numbers
+Link: https://codeforces.com/contest/1294/problem/C

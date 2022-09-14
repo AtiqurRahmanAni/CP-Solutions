@@ -1,0 +1,2 @@
+Problem: Counting Sticks
+Link: https://codeforces.com/contest/394/problem/A

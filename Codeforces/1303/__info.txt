@@ -1,0 +1,2 @@
+Problem: Erasing Zeroes
+Link: https://codeforces.com/contest/1303/problem/A

@@ -1,0 +1,2 @@
+Problem: Holiday Of Equality
+Link: https://codeforces.com/contest/758/problem/A

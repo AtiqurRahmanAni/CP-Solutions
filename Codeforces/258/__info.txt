@@ -1,0 +1,2 @@
+Problem: Little Elephant and Bits
+Link: https://codeforces.com/contest/258/problem/A

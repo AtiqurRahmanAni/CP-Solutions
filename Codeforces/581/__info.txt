@@ -1,0 +1,2 @@
+Problem: Vasya the Hipster
+Link: https://codeforces.com/contest/581/problem/A

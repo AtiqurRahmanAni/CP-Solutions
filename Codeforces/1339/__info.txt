@@ -1,0 +1,2 @@
+Problem: Sorted Adjacent Differences
+Link: https://codeforces.com/contest/1339/problem/B

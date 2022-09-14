@@ -1,0 +1,2 @@
+Problem: Frog Jumps
+Link: https://codeforces.com/contest/1324/problem/C

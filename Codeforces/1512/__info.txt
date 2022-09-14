@@ -1,0 +1,2 @@
+Problem: Corrupted Array
+Link: https://codeforces.com/contest/1512/problem/D

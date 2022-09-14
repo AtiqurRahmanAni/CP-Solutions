@@ -1,0 +1,2 @@
+Problem: IQ Test
+Link: https://codeforces.com/contest/287/problem/A

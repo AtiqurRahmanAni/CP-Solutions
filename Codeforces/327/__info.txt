@@ -1,0 +1,2 @@
+Problem: Hungry Sequence
+Link: https://codeforces.com/contest/327/problem/B

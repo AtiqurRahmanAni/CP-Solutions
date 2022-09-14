@@ -1,0 +1,2 @@
+Problem: New Year Candles
+Link: https://codeforces.com/contest/379/problem/A

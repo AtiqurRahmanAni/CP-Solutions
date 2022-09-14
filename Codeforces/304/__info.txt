@@ -1,0 +1,2 @@
+Problem: Pythagorean Theorem II
+Link: https://codeforces.com/contest/304/problem/A

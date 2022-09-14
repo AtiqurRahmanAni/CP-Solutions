@@ -1,0 +1,2 @@
+Problem: Create The Teams
+Link: https://codeforces.com/contest/1380/problem/C

@@ -1,0 +1,2 @@
+Problem: Yaroslav and Permutations
+Link: https://codeforces.com/contest/296/problem/A

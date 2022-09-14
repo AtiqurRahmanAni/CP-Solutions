@@ -1,0 +1,2 @@
+Problem: Little Elephant and Function
+Link: https://codeforces.com/contest/221/problem/A

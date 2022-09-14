@@ -1,0 +1,2 @@
+Problem: Boys and Girls
+Link: https://codeforces.com/contest/253/problem/A

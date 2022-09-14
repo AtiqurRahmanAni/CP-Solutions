@@ -1,0 +1,2 @@
+Problem: Unlucky Ticket
+Link: https://codeforces.com/contest/160/problem/B

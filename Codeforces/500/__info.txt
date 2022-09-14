@@ -1,0 +1,2 @@
+Problem: New Year Book Reading
+Link: https://codeforces.com/contest/500/problem/C

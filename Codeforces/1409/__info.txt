@@ -1,0 +1,2 @@
+Problem: Yet Another Array Restoration
+Link: https://codeforces.com/contest/1409/problem/C

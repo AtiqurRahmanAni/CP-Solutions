@@ -1,0 +1,2 @@
+Problem: Panoramix's Prediction
+Link: https://codeforces.com/contest/80/problem/A

@@ -1,0 +1,2 @@
+Problem: Canine poetry
+Link: https://codeforces.com/contest/1466/problem/C

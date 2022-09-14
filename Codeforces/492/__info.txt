@@ -1,0 +1,2 @@
+Problem: Vanya and Lanterns
+Link: https://codeforces.com/contest/492/problem/B

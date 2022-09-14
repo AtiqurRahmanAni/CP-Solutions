@@ -1,0 +1,2 @@
+Problem: There Are Two Types Of Burgers
+Link: https://codeforces.com/contest/1207/problem/A

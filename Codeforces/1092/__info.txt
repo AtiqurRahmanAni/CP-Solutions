@@ -1,0 +1,2 @@
+Problem: Teams Forming
+Link: https://codeforces.com/contest/1092/problem/B

@@ -1,0 +1,2 @@
+Problem: Beat The Odds
+Link: https://codeforces.com/contest/1691/problem/A

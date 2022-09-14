@@ -1,0 +1,2 @@
+Problem: Kind Anton
+Link: https://codeforces.com/contest/1333/problem/B

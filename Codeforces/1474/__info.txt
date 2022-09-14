@@ -1,0 +1,2 @@
+Problem: Different Divisors
+Link: https://codeforces.com/contest/1474/problem/B

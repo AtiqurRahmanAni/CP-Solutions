@@ -1,0 +1,2 @@
+Problem: Hexadecimal's theorem
+Link: https://codeforces.com/contest/199/problem/A

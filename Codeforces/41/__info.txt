@@ -1,0 +1,2 @@
+Problem: Translation
+Link: https://codeforces.com/contest/41/problem/A

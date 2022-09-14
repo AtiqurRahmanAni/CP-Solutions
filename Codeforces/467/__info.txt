@@ -1,0 +1,2 @@
+Problem: George and Accommodation
+Link: https://codeforces.com/contest/467/problem/A

@@ -1,0 +1,2 @@
+Problem: Phone numbers
+Link: https://codeforces.com/contest/25/problem/B

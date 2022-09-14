@@ -1,0 +1,2 @@
+Problem: Prefix Flip (Easy Version)
+Link: https://codeforces.com/contest/1382/problem/C1

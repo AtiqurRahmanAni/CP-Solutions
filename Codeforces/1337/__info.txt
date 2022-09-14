@@ -1,0 +1,2 @@
+Problem: Xenia and Colorful Gems
+Link: https://codeforces.com/contest/1337/problem/D

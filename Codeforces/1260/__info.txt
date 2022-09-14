@@ -1,0 +1,2 @@
+Problem: Heating
+Link: https://codeforces.com/contest/1260/problem/A

@@ -1,0 +1,2 @@
+Problem: Lights Out
+Link: https://codeforces.com/contest/275/problem/A

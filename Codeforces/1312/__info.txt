@@ -1,0 +1,2 @@
+Problem: Two Regular Polygons
+Link: https://codeforces.com/contest/1312/problem/A

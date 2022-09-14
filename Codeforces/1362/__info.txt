@@ -1,0 +1,2 @@
+Problem: Johnny and Another Rating Drop
+Link: https://codeforces.com/contest/1362/problem/C

@@ -1,0 +1,2 @@
+Problem: Ternary String
+Link: https://codeforces.com/contest/1354/problem/B

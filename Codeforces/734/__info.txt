@@ -1,0 +1,2 @@
+Problem: Anton and Digits
+Link: https://codeforces.com/contest/734/problem/B

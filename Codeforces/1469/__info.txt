@@ -1,0 +1,2 @@
+Problem: Red and Blue
+Link: https://codeforces.com/contest/1469/problem/B

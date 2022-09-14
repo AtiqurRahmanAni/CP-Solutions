@@ -1,0 +1,2 @@
+Problem: Soldier and Bananas
+Link: https://codeforces.com/contest/546/problem/A

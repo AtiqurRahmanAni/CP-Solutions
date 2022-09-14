@@ -1,0 +1,2 @@
+Problem: Payment Without Change
+Link: https://codeforces.com/contest/1256/problem/A

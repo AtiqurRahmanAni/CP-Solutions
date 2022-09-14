@@ -1,0 +1,2 @@
+Problem: Three Piles of Candies
+Link: https://codeforces.com/contest/1196/problem/A

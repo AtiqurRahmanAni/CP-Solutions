@@ -1,0 +1,2 @@
+Problem: Nezzar and Lucky Number
+Link: https://codeforces.com/contest/1478/problem/B

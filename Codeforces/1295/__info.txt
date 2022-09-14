@@ -1,0 +1,2 @@
+Problem: Display The Number
+Link: https://codeforces.com/contest/1295/problem/A

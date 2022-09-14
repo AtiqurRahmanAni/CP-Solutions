@@ -1,0 +1,2 @@
+Problem: Calculating Function
+Link: https://codeforces.com/contest/486/problem/A

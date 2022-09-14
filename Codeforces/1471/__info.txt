@@ -1,0 +1,2 @@
+Problem: Strange List
+Link: https://codeforces.com/contest/1471/problem/B

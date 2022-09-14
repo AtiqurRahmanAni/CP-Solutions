@@ -1,0 +1,2 @@
+Problem: Rotation Matching
+Link: https://codeforces.com/contest/1365/problem/C

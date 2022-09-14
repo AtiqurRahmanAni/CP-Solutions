@@ -1,0 +1,2 @@
+Problem: A Perfectly Balanced String?
+Link: https://codeforces.com/contest/1673/problem/B

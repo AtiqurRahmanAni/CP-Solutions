@@ -1,0 +1,2 @@
+Problem: In Search of an Easy Problem
+Link: https://codeforces.com/contest/1030/problem/A

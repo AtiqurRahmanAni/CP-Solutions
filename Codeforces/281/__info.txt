@@ -1,0 +1,2 @@
+Problem: Word Capitalization
+Link: https://codeforces.com/contest/281/problem/A

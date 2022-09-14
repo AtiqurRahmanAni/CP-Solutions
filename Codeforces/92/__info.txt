@@ -1,0 +1,2 @@
+Problem: Chips
+Link: https://codeforces.com/contest/92/problem/A

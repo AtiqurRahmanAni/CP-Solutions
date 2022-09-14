@@ -1,0 +1,2 @@
+Problem: Cubes Sorting
+Link: https://codeforces.com/contest/1420/problem/A

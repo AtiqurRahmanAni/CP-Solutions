@@ -1,0 +1,2 @@
+Problem: Supercentral Point
+Link: https://codeforces.com/contest/165/problem/A

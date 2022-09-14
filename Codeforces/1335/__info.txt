@@ -1,0 +1,2 @@
+Problem: Anti-Sudoku
+Link: https://codeforces.com/contest/1335/problem/D

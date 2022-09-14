@@ -1,0 +1,2 @@
+Problem: Puzzles
+Link: https://codeforces.com/contest/337/problem/A

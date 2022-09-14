@@ -1,0 +1,2 @@
+Problem: Restoring Three Numbers
+Link: https://codeforces.com/contest/1154/problem/A

@@ -1,0 +1,2 @@
+Problem: Young Physicist
+Link: https://codeforces.com/contest/69/problem/A

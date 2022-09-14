@@ -1,0 +1,2 @@
+Problem: Fadi and LCM
+Link: https://codeforces.com/contest/1285/problem/C

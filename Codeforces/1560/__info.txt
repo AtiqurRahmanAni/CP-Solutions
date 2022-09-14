@@ -1,0 +1,2 @@
+Problem: Infinity Table
+Link: https://codeforces.com/contest/1560/problem/C

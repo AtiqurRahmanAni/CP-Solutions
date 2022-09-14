@@ -1,0 +1,2 @@
+Problem: Petya and Strings
+Link: https://codeforces.com/contest/112/problem/A

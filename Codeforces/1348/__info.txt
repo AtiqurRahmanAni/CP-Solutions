@@ -1,0 +1,2 @@
+Problem: Phoenix and Beauty
+Link: https://codeforces.com/contest/1348/problem/B

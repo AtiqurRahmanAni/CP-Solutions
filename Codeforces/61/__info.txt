@@ -1,0 +1,2 @@
+Problem: Ultra-Fast Mathematician
+Link: https://codeforces.com/contest/61/problem/A

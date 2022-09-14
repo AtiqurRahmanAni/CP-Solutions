@@ -1,0 +1,2 @@
+Problem: Design Tutorial: Learn from Math
+Link: https://codeforces.com/contest/472/problem/A

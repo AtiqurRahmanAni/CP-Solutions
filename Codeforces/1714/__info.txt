@@ -1,0 +1,2 @@
+Problem: Minimum  Varied Number
+Link: https://codeforces.com/contest/1714/problem/C

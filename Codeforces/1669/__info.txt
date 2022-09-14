@@ -1,0 +1,2 @@
+Problem: Maximal AND
+Link: https://codeforces.com/contest/1669/problem/H

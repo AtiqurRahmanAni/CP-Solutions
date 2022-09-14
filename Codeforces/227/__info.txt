@@ -1,0 +1,2 @@
+Problem: Effective Approach
+Link: https://codeforces.com/contest/227/problem/B

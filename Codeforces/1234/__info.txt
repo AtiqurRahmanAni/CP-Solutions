@@ -1,0 +1,2 @@
+Problem: Social Network (hard version)
+Link: https://codeforces.com/contest/1234/problem/B2

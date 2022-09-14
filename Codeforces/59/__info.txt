@@ -1,0 +1,2 @@
+Problem: Word
+Link: https://codeforces.com/contest/59/problem/A

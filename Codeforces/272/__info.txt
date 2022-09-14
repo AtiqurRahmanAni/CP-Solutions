@@ -1,0 +1,2 @@
+Problem: Dima and Staircase
+Link: https://codeforces.com/contest/272/problem/C

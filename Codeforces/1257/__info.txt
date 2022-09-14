@@ -1,0 +1,2 @@
+Problem: Magic Stick
+Link: https://codeforces.com/contest/1257/problem/B

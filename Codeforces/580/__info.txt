@@ -1,0 +1,2 @@
+Problem: Kefa and First Steps
+Link: https://codeforces.com/contest/580/problem/A

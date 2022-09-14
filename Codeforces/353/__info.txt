@@ -1,0 +1,2 @@
+Problem: Domino
+Link: https://codeforces.com/contest/353/problem/A

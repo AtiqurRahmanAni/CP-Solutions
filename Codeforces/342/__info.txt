@@ -1,0 +1,2 @@
+Problem: Xenia and Divisors
+Link: https://codeforces.com/contest/342/problem/A

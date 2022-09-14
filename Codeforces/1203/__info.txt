@@ -1,0 +1,2 @@
+Problem: Common Divisors
+Link: https://codeforces.com/contest/1203/problem/C

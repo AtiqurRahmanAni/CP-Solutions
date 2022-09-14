@@ -1,0 +1,2 @@
+Problem: Mishka and Game
+Link: https://codeforces.com/contest/703/problem/A

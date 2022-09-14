@@ -1,0 +1,2 @@
+Problem: Vasily the Bear and Triangle
+Link: https://codeforces.com/contest/336/problem/A

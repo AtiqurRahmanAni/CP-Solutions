@@ -1,0 +1,2 @@
+Problem: Cut Ribbon
+Link: https://codeforces.com/contest/189/problem/A

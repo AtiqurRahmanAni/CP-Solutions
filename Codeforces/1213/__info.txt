@@ -1,0 +1,2 @@
+Problem: Bad Prices
+Link: https://codeforces.com/contest/1213/problem/B

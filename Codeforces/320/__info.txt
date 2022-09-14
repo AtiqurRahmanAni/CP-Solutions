@@ -1,0 +1,2 @@
+Problem: Magic Numbers
+Link: https://codeforces.com/contest/320/problem/A

@@ -1,0 +1,2 @@
+Problem: Omkar and Completion
+Link: https://codeforces.com/contest/1372/problem/A

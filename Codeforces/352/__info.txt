@@ -1,0 +1,2 @@
+Problem: Jeff and Periods
+Link: https://codeforces.com/contest/352/problem/B

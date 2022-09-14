@@ -1,0 +1,2 @@
+Problem: Kuriyama Mirai's Stones
+Link: https://codeforces.com/contest/433/problem/B

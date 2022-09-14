@@ -1,0 +1,2 @@
+Problem: Vasya and Socks
+Link: https://codeforces.com/contest/460/problem/A

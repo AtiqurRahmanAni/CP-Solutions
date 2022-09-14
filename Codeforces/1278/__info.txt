@@ -1,0 +1,2 @@
+Problem: Shuffle Hashing
+Link: https://codeforces.com/contest/1278/problem/A

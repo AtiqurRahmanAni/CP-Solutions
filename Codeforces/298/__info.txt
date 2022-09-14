@@ -1,0 +1,2 @@
+Problem: Sail
+Link: https://codeforces.com/contest/298/problem/B

@@ -1,0 +1,2 @@
+Problem: Minimize The Integer
+Link: https://codeforces.com/contest/1251/problem/C

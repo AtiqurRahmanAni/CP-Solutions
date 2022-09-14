@@ -1,0 +1,2 @@
+Problem: Perfect Number
+Link: https://codeforces.com/contest/919/problem/B

@@ -1,0 +1,2 @@
+Problem: Good Numbers (easy version)
+Link: https://codeforces.com/contest/1249/problem/C1

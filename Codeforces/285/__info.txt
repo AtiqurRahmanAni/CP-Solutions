@@ -1,0 +1,2 @@
+Problem: Building Permutation
+Link: https://codeforces.com/contest/285/problem/C

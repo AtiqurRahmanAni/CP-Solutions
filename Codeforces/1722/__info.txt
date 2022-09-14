@@ -1,0 +1,2 @@
+Problem: Counting Rectangles
+Link: https://codeforces.com/contest/1722/problem/E

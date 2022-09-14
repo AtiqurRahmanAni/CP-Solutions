@@ -1,0 +1,2 @@
+Problem: Blocks
+Link: https://codeforces.com/contest/1271/problem/B

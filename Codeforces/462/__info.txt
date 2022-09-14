@@ -1,0 +1,2 @@
+Problem: Appleman and Card Game
+Link: https://codeforces.com/contest/462/problem/B

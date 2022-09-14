@@ -1,0 +1,2 @@
+Problem: Stones
+Link: https://codeforces.com/contest/1236/problem/A

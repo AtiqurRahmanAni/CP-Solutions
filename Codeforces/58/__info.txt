@@ -1,0 +1,2 @@
+Problem: Chat room
+Link: https://codeforces.com/contest/58/problem/A

@@ -1,0 +1,2 @@
+Problem: Fight with Monsters
+Link: https://codeforces.com/contest/1296/problem/D

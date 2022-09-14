@@ -1,0 +1,2 @@
+Problem: BowWow and the Timetable
+Link: https://codeforces.com/contest/1204/problem/A

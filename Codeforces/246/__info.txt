@@ -1,0 +1,2 @@
+Problem: Increase and Decrease
+Link: https://codeforces.com/contest/246/problem/B

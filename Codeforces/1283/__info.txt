@@ -1,0 +1,2 @@
+Problem: Candies Division
+Link: https://codeforces.com/contest/1283/problem/B

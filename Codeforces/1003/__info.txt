@@ -1,0 +1,2 @@
+Problem: Polycarp's Pockets
+Link: https://codeforces.com/contest/1003/problem/A

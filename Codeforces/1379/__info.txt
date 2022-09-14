@@ -1,0 +1,2 @@
+Problem: Acacius and String
+Link: https://codeforces.com/contest/1379/problem/A

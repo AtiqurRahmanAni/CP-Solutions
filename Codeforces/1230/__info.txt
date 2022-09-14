@@ -1,0 +1,2 @@
+Problem: Ania and Minimizing
+Link: https://codeforces.com/contest/1230/problem/B

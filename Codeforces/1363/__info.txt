@@ -1,0 +1,2 @@
+Problem: Subsequence Hate
+Link: https://codeforces.com/contest/1363/problem/B

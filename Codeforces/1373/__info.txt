@@ -1,0 +1,2 @@
+Problem: Pluses and Minuses
+Link: https://codeforces.com/contest/1373/problem/C

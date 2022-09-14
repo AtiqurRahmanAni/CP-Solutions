@@ -1,0 +1,2 @@
+Problem: Wonderful Coloring - 1
+Link: https://codeforces.com/contest/1551/problem/B1

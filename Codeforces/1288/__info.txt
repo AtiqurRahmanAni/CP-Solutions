@@ -1,0 +1,2 @@
+Problem: Yet Another Meme Problem
+Link: https://codeforces.com/contest/1288/problem/B

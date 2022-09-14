@@ -1,0 +1,2 @@
+Problem: Assigning to Classes
+Link: https://codeforces.com/contest/1300/problem/B

@@ -1,0 +1,2 @@
+Problem: Big Segment
+Link: https://codeforces.com/contest/242/problem/B

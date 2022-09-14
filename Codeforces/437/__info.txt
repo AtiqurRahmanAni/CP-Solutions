@@ -1,0 +1,2 @@
+Problem: The Child and Toy
+Link: https://codeforces.com/contest/437/problem/C
